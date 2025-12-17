@@ -88,7 +88,7 @@ Open in browser: http://localhost:3000
 
 6. Deployment
 Frontend: [my-repository-snowy-chi.vercel.app]
-Backend: [mini-event-platform-swathi.repl.co]
+Backend: [mini-event-platform-1.onrender.com]
 
 7. GitHub Repository Link
 
